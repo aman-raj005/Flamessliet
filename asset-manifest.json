@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Flamessliet/static/css/main.d3c158b7.css",
+    "main.js": "/Flamessliet/static/js/main.c11b32c3.js",
+    "static/media/signup.png": "/Flamessliet/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/Flamessliet/static/media/login.4d877a447365e5137b67.png",
+    "static/media/flamesimage.jpg": "/Flamessliet/static/media/flamesimage.0b4ad7902298c9c5f66a.jpg",
+    "static/media/couplename.jpg": "/Flamessliet/static/media/couplename.b89decdec91582c11cfc.jpg",
+    "static/media/frame.png": "/Flamessliet/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/spouse.avif": "/Flamessliet/static/media/spouse.c7922af04a8379a18176.avif",
+    "static/media/street.avif": "/Flamessliet/static/media/street.ea98b938979a44a378aa.avif",
+    "index.html": "/Flamessliet/index.html",
+    "main.d3c158b7.css.map": "/Flamessliet/static/css/main.d3c158b7.css.map",
+    "main.c11b32c3.js.map": "/Flamessliet/static/js/main.c11b32c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c158b7.css",
+    "static/js/main.c11b32c3.js"
+  ]
+}
